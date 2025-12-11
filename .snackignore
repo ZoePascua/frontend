@@ -2,3 +2,7 @@ node_modules/
 .git/
 .expo/
 .gitignore
+package-lock.json
+assets/
+.snackrc
+
