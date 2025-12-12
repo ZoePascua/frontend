@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyFrontend-Snack",
+    "slug": "myfrontend-snack",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios","android","web"],
+    "sdkVersion": "54.0.0"
+  }
+}
